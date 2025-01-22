@@ -5,11 +5,9 @@ date: 2025-01-22 10:00:00 +0900
 categories: [Introduction, Personal]
 tags: [welcome, blog]
 description: "An introduction to my new blog and what you can expect from my posts."
-image:
-  path: /assets/img/welcome.jpg
-  alt: "Welcome Image"
 pin: true
 ---
+
 
 
 ## Welcome to My Blog!
